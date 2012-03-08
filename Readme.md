@@ -32,8 +32,8 @@ Pour vérifier que le hub et ses nodes sont bien configurés : http://localhost:44
 
 
 
-##Source de la presentation Selenium, TestNG, Selenium GRID : https://docs.google.com/present/view?id=df76zb48_14dwvk38c5
+###Source de la presentation Selenium, TestNG, Selenium GRID : https://docs.google.com/present/view?id=df76zb48_14dwvk38c5
 
-##Source de la presentation FluentLenium :  https://docs.google.com/present/view?id=df76zb48_47hmp8bkcp
+###Source de la presentation FluentLenium :  https://docs.google.com/present/view?id=df76zb48_47hmp8bkcp
 
 
